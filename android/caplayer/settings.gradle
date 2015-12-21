@@ -1,0 +1,10 @@
+include ':caplayer-armv5'
+include ':caplayer-armv7a'
+include ':caplayer-arm64'
+include ':caplayer-x86'
+
+include ':caplayer-java'
+include ':caplayer-exo'
+
+include ':caplayer-sample'
+
