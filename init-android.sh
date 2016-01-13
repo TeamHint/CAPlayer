@@ -17,7 +17,7 @@
 
 CAP_FFMPEG_UPSTREAM=https://github.com/TeamHint/FFmpeg.git
 CAP_FFMPEG_FORK=https://github.com/TeamHint/FFmpeg.git
-CAP_FFMPEG_COMMIT=ff2.8--ijk0.4.1.1--dev0.3.3--rc4
+CAP_FFMPEG_COMMIT=ff2.8-dev-0.1
 CAP_FFMPEG_LOCAL_REPO=extra/ffmpeg
 
 set -e
